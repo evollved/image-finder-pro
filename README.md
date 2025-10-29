@@ -2,7 +2,7 @@
 
 ![OpenCart 3](https://img.shields.io/badge/OpenCart-3.x-blue.svg)
 ![Версия](https://img.shields.io/badge/Версия-1.1-green.svg)
-![Лицензия](https://img.shields.io/badge/Лицензия-OSL--3.0-lightgrey.svg)
+[![Лицензия: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Продвинутый модуль для поиска и управления неиспользуемыми изображениями в админ-панели OpenCart 3. Помогает очистить ваш каталог изображений, находя файлы, не связанные с товарами, категориями, производителями или баннерами.
 
