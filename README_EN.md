@@ -2,7 +2,7 @@
 
 ![OpenCart 3](https://img.shields.io/badge/OpenCart-3.x-blue.svg)
 ![Version](https://img.shields.io/badge/Version-1.1-green.svg)
-![License](https://img.shields.io/badge/License-OSL--3.0-lightgrey.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Advanced module for finding and managing unused images in OpenCart 3 administration panel. Helps clean up your image catalog by identifying files not linked to products, categories, manufacturers, or banners.
 
