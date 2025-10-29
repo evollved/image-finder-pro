@@ -153,7 +153,7 @@ For bugs and feature requests, please create an issue in the GitHub repository.
 
 ## 📄 License
 
-This module is released under the Open Software License (OSL 3.0). See LICENSE file for details.
+This module is released under the MIT License. See LICENSE file for details.
 
 ## 🔄 Version History
 
